@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/HusainChhil" target="_blank">
+  <a href="https://linkedin.com/in/husainchhil" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:hychhil@gmail.com">
@@ -16,19 +16,9 @@
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 I am currently pursuing **MBA.Tech in Data Science** at **NMIMS University, Mumbai**, with a **CGPA of 3.78**. Expected graduation: **April 2027**.
-- 🏆 Active member of **Enactus MPSTME**, and a **runner-up in the Unplanned B-Plan Competition**.
-- 🧑‍🏫 Passionate about using technology to solve real-world problems. I love working on innovative projects that combine my interests in **Data Science, Machine Learning, and AI**.
-- 🌱 Currently exploring **ARIMA modeling for time series forecasting**, and **deep learning techniques for image processing**.
-- 📚 I am also interested in **business analytics**, **self-development**, and **psychology**.
-
----
-
 ## 🚀 My Projects
 
-### 🛰️ [Deep Learning – SAR Image Colorization]([https://github.com/your-repo](https://github.com/husainchhil/ISRO-Colorization))
+### 🛰️ [Deep Learning – SAR Image Colorization](https://github.com/your-repo](https://github.com/husainchhil/ISRO-Colorization)
 - **Skills/tools**: Python, Tensorflow, Docker, FastAPI, Streamlit
 - **Overview**: Collaborated with a team to solve a real-world problem for **ISRO** by colorizing **B&W SAR satellite images**, enhancing detail recognition and analysis.
 - **Features**: Built a deep learning model inspired by Richard Zhang's architecture with **40 lakh parameters**, achieving **91% per-pixel accuracy**.
@@ -38,25 +28,6 @@
 - **Skills/tools**: ARIMA, Statsmodels, Pandas, Selenium
 - **Overview**: Developed a model using **ARIMA** that predicted flood impacts with **95% accuracy**, helping improve disaster response.
 - **Data Handling**: Scraped and preprocessed over **5,000 flood records**, integrating meteorological data for better forecasting.
-
----
-
-## 💼 Professional Experience
-
-### 🏢 [ISF Analytica Informatica – Data Science & AI Intern](https://www.linkedin.com/company/isf-analytica-informatica)
-- **Duration**: May 2024 – Sep 2024
-- **Key Achievements**:
-  - Integrated **OpenAI API** and **Huggingface**, improving AI functionalities and **response time by 0.3 seconds**.
-  - **Deployed over 10 services using Docker**, optimizing operational consistency.
-  - Created AI tools such as **YouTube Course Recommender**, **SQL Data Visualizer**, and **OCR Note Converter**.
-  - Developed **8+ APIs**, ensuring **99% uptime** and handling **1,000,000 API calls monthly**.
-
-### 🎓 [Enactus MPSTME – Director of Innovation](https://www.enactusmpstme.com)
-- **Duration**: Jul 2022 – Present
-- **Key Achievements**:
-  - **Increased sales by ₹1.2L+**, reaching an audience of **5000+**.
-  - Led a **cross-functional team of 35+**, delivering innovative data-driven campaigns.
-  - Collaborated with **10+ clients**, surpassing expectations with **tailored solutions**.
 
 ---
 
@@ -87,9 +58,8 @@
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/HusainChhil)
+- 💼 [LinkedIn](https://linkedin.com/in/husainchhil)
 - 📧 Email: hychhil@gmail.com
-- 🌐 [Portfolio Website](https://your-portfolio-link.com)
 
 ---
 
