@@ -18,7 +18,7 @@
 
 ## 🚀 My Projects
 
-### 🛰️ [Deep Learning – SAR Image Colorization](https://github.com/your-repo](https://github.com/husainchhil/ISRO-Colorization)
+### 🛰️ [Deep Learning – SAR Image Colorization](https://github.com/husainchhil/ISRO-Colorization)
 - **Skills/tools**: Python, Tensorflow, Docker, FastAPI, Streamlit
 - **Overview**: Collaborated with a team to solve a real-world problem for **ISRO** by colorizing **B&W SAR satellite images**, enhancing detail recognition and analysis.
 - **Features**: Built a deep learning model inspired by Richard Zhang's architecture with **40 lakh parameters**, achieving **91% per-pixel accuracy**.
